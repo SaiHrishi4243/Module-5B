@@ -41,4 +41,4 @@ print(sorted_a)
 
 ## Result
 
-Thus implemented the python program to
+Thus implemented the python program to sort the elements in each column of a given 2D array in ascending order.
